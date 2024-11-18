@@ -32,7 +32,7 @@ This guide is intended for developers who want to contribute to the PQC (Post-Qu
    ```
 
 ## Coding Standards
-- Follow the Airbnb JavaScript Style Guide.
+- Follow the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) 
 - Use meaningful variable and function names.
 - Write comments to explain complex logic.
 
