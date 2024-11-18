@@ -55,7 +55,7 @@ To get started with the Pi Quantum Card, follow these steps:
    ```
 
 ### Usage
-To start the application, run the following command:
+- To start the application, run the following command:
 
    ```bash
    1 npm start
@@ -82,7 +82,7 @@ You can access the application at http://localhost:3000.
    ```
    
 ### Testing
-To run the tests for the application, use the following command:
+- To run the tests for the application, use the following command:
 
    ```bash
    1 npm test
