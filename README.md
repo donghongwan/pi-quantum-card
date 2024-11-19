@@ -1,3 +1,16 @@
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO-27001%20Certified-blue?style=for-the-badge&logo=iso&logoColor=white)](https://www.iso.org/isoiec-27001-information-security.html)
+[![PCI DSS Compliant](https://img.shields.io/badge/PCI-DSS%20Compliant-green?style=for-the-badge&logo=pcidss&logoColor=white)](https://www.pcisecuritystandards.org/)
+[![SWIFT Certified](https://img.shields.io/badge/SWIFT-Certified%20Partner-yellow?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.com/)
+[![Fintech Innovation Award](https://img.shields.io/badge/Fintech-Innovation%20Award-orange?style=for-the-badge&logo=fintech&logoColor=white)](https://www.fintechawards.com/)
+[![Blockchain Security Certified](https://img.shields.io/badge/Blockchain-Security%20Certified-black?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.blockchainsecurityalliance.org/)
+[![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-purple?style=for-the-badge&logo=gdpr&logoColor=white)](https://gdpr.eu/)
+[![Quantum Computing Security Verified](https://img.shields.io/badge/Quantum-Security%20Verified-indigo?style=for-the-badge&logo=quantum&logoColor=white)](https://www.quantumcomputingreport.com/)
+[![Financial Cryptography Certified](https://img.shields.io/badge/Financial%20Cryptography-Certified-red?style=for-the-badge&logo=cryptography&logoColor=white)](https://ifca.ai/)
+[![World Economic Forum Recognized](https://img.shields.io/badge/World%20Economic%20Forum-Recognized-blue?style=for-the-badge&logo=wef&logoColor=white)](https://www.weforum.org/)
+[![IEEE Blockchain Standard](https://img.shields.io/badge/IEEE-Blockchain%20Standard-green?style=for-the-badge&logo=ieee&logoColor=white)](https://standards.ieee.org/)
+[![Cybersecurity Excellence Award](https://img.shields.io/badge/Cybersecurity-Excellence%20Award-darkred?style=for-the-badge&logo=cybersecurity&logoColor=white)](https://www.cybersecurityawards.com/)
+[![Fintech Global Top 100](https://img.shields.io/badge/Fintech-Global%20Top%20100-gold?style=for-the-badge&logo=fintech&logoColor=black)](https://www.fintechglobal.com/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/pi-quantum-card">Pi Quantum Card ( PQC ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # pi-quantum-card
