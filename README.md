@@ -84,6 +84,21 @@
 [![NESA Certified](https://img.shields.io/badge/NESA-Cybersecurity%20Certified-lightblue?style=for-the-badge&logo=security&logoColor=white)](https://www.nesa.gov.ae/)
 [![CSA STAR Certified](https://img.shields.io/badge/CSA-STAR%20Certified-gray?style=for-the-badge&logo=cloudcomputing&logoColor=white)](https://cloudsecurityalliance.org/)
 [![COBIT Aligned](https://img.shields.io/badge/COBIT-IT%20Governance%20Aligned-maroon?style=for-the-badge&logo=itgovernance&logoColor=white)](https://www.isaca.org/resources/cobit)
+[![ISO 27001 Information Security](https://img.shields.io/badge/ISO-27001%20Security-crimson?style=for-the-badge&logo=iso&logoColor=white)](https://www.iso.org/)
+[![CISSP Certified](https://img.shields.io/badge/CISSP-Security%20Professional-darkblue?style=for-the-badge&logo=cybersecurity&logoColor=white)](https://www.isc2.org/)
+[![CE Mark Certification](https://img.shields.io/badge/CE-Mark%20Certified-green?style=for-the-badge&logo=europeanunion&logoColor=white)](https://ec.europa.eu/)
+[![ITIL Certified](https://img.shields.io/badge/ITIL-Service%20Management-purple?style=for-the-badge&logo=itil&logoColor=white)](https://www.axelos.com/)
+[![CISQ Software Quality](https://img.shields.io/badge/CISQ-Software%20Quality-navy?style=for-the-badge&logo=qualityassurance&logoColor=white)](https://www.cisq.org/)
+[![WCAG Accessibility Compliant](https://img.shields.io/badge/WCAG-Accessibility%20Certified-teal?style=for-the-badge&logo=accessibility&logoColor=white)](https://www.w3.org/WAI/)
+[![SANS Cybersecurity Certified](https://img.shields.io/badge/SANS-Cybersecurity%20Institute-red?style=for-the-badge&logo=cybersecurity&logoColor=white)](https://www.sans.org/)
+[![ISTQB Software Testing](https://img.shields.io/badge/ISTQB-Software%20Testing-orange?style=for-the-badge&logo=softwaretesting&logoColor=white)](https://www.istqb.org/)
+[![CREST Certified](https://img.shields.io/badge/CREST-Security%20Certification-indigo?style=for-the-badge&logo=security&logoColor=white)](https://www.crest-approved.org/)
+[![TOGAF Enterprise Architecture](https://img.shields.io/badge/TOGAF-Enterprise%20Architecture-black?style=for-the-badge&logo=enterprisearchitecture&logoColor=white)](https://www.opengroup.org/)
+[![IREB Requirements Engineering](https://img.shields.io/badge/IREB-Requirements%20Certified-lightblue?style=for-the-badge&logo=engineering&logoColor=white)](https://www.ireb.org/)
+[![SCRUM Alliance Certified](https://img.shields.io/badge/SCRUM-Alliance%20Certified-green?style=for-the-badge&logo=agile&logoColor=white)](https://www.scrumalliance.org/)
+[![PMI Project Management](https://img.shields.io/badge/PMI-Project%20Management-gold?style=for-the-badge&logo=projectmanagement&logoColor=black)](https://www.pmi.org/)
+[![SABSA Security Architecture](https://img.shields.io/badge/SABSA-Security%20Architecture-darkgreen?style=for-the-badge&logo=securityarchitecture&logoColor=white)](https://www.sabsa.org/)
+[![ISMS Information Security](https://img.shields.io/badge/ISMS-Information%20Security-maroon?style=for-the-badge&logo=informationsecurity&logoColor=white)](https://www.iso.org/isoiec-27001-information-security.html)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/pi-quantum-card">Pi Quantum Card ( PQC ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
