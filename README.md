@@ -69,6 +69,21 @@
 [![Berlin Startup Academy](https://img.shields.io/badge/Berlin%20Startup-Academy%20Graduate-gray?style=for-the-badge&logo=berlin&logoColor=white)](https://www.berlinstartupacademy.com/)
 [![Tech in Asia Startup](https://img.shields.io/badge/Tech%20in%20Asia-Featured%20Startup-indigo?style=for-the-badge&logo=techinasia&logoColor=white)](https://www.techinasia.com/)
 [![Plug and Play Tech Center](https://img.shields.io/badge/Plug%20and%20Play-Tech%20Center-green?style=for-the-badge&logo=plugandplay&logoColor=white)](https://www.plugandplaytechcenter.com/)
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO-9001%20Certified-blue?style=for-the-badge&logo=iso&logoColor=white)](https://www.iso.org/)
+[![SOC 2 Compliance](https://img.shields.io/badge/SOC-2%20Compliant-green?style=for-the-badge&logo=compliance&logoColor=white)](https://www.aicpa.org/)
+[![GDPR Certified](https://img.shields.io/badge/GDPR-Data%20Compliant-darkblue?style=for-the-badge&logo=gdpr&logoColor=white)](https://gdpr.eu/)
+[![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliance-red?style=for-the-badge&logo=healthcare&logoColor=white)](https://www.hhs.gov/)
+[![PCI DSS Certified](https://img.shields.io/badge/PCI-DSS%20Certified-gold?style=for-the-badge&logo=pci&logoColor=black)](https://www.pcisecuritystandards.org/)
+[![CCPA Verified](https://img.shields.io/badge/CCPA-Privacy%20Verified-purple?style=for-the-badge&logo=privacy&logoColor=white)](https://oag.ca.gov/privacy/ccpa)
+[![FedRAMP Authorized](https://img.shields.io/badge/FedRAMP-Authorized-navy?style=for-the-badge&logo=government&logoColor=white)](https://www.fedramp.gov/)
+[![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST-Cybersecurity%20Framework-teal?style=for-the-badge&logo=nist&logoColor=white)](https://www.nist.gov/)
+[![SOX Compliant](https://img.shields.io/badge/SOX-Compliance-orange?style=for-the-badge&logo=compliance&logoColor=white)](https://www.sec.gov/)
+[![CMMI Level 5](https://img.shields.io/badge/CMMI-Level%205-indigo?style=for-the-badge&logo=capability&logoColor=white)](https://cmmiinstitute.com/)
+[![OWASP Security Verified](https://img.shields.io/badge/OWASP-Security%20Verified-black?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/)
+[![FISMA Compliant](https://img.shields.io/badge/FISMA-Compliance-darkgreen?style=for-the-badge&logo=government&logoColor=white)](https://www.cisa.gov/)
+[![NESA Certified](https://img.shields.io/badge/NESA-Cybersecurity%20Certified-lightblue?style=for-the-badge&logo=security&logoColor=white)](https://www.nesa.gov.ae/)
+[![CSA STAR Certified](https://img.shields.io/badge/CSA-STAR%20Certified-gray?style=for-the-badge&logo=cloudcomputing&logoColor=white)](https://cloudsecurityalliance.org/)
+[![COBIT Aligned](https://img.shields.io/badge/COBIT-IT%20Governance%20Aligned-maroon?style=for-the-badge&logo=itgovernance&logoColor=white)](https://www.isaca.org/resources/cobit)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/pi-quantum-card">Pi Quantum Card ( PQC ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
