@@ -134,7 +134,6 @@ The Pi Quantum Card (PQC) is a groundbreaking technology that transcends traditi
 - [Testing](#testing)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
