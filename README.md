@@ -40,6 +40,21 @@
 [![Global Blockchain Business Council](https://img.shields.io/badge/Global%20Blockchain-Business%20Council-darkblue?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.gbbc.io/)
 [![Web Summit Startup](https://img.shields.io/badge/Web%20Summit-Featured%20Startup-red?style=for-the-badge&logo=websummit&logoColor=white)](https://websummit.com/)
 [![500 Startups Accelerator](https://img.shields.io/badge/500%20Startups-Accelerator-purple?style=for-the-badge&logo=500startups&logoColor=white)](https://500.co/)
+[![KPMG Fintech Innovator](https://img.shields.io/badge/KPMG-Fintech%20Innovator-blue?style=for-the-badge&logo=kpmg&logoColor=white)](https://home.kpmg/)
+[![Davos World Innovation Forum](https://img.shields.io/badge/Davos-World%20Innovation%20Forum-darkgreen?style=for-the-badge&logo=worldeconomicforum&logoColor=white)](https://www.weforum.org/)
+[![NASDAQ Emerging Technology](https://img.shields.io/badge/NASDAQ-Emerging%20Technology-green?style=for-the-badge&logo=nasdaq&logoColor=white)](https://www.nasdaq.com/)
+[![Digital Transformation Alliance](https://img.shields.io/badge/Digital%20Transformation-Alliance%20Certified-purple?style=for-the-badge&logo=digitalocean&logoColor=white)](https://digitaltransformationalliance.com/)
+[![African Innovation Foundation](https://img.shields.io/badge/African%20Innovation-Foundation%20Award-gold?style=for-the-badge&logo=africa&logoColor=black)](https://www.innovationafrica.com/)
+[![Startup India Recognition](https://img.shields.io/badge/Startup%20India-Recognized-orange?style=for-the-badge&logo=india&logoColor=white)](https://www.startupindia.gov.in/)
+[![INSEAD Innovation Center](https://img.shields.io/badge/INSEAD-Innovation%20Center-navy?style=for-the-badge&logo=university&logoColor=white)](https://www.insead.edu/)
+[![Asia Pacific ICT Alliance](https://img.shields.io/badge/APICTA-Awards%20Winner-teal?style=for-the-badge&logo=asia&logoColor=white)](https://www.apicta.org/)
+[![Stanford Venture Studio](https://img.shields.io/badge/Stanford-Venture%20Studio-red?style=for-the-badge&logo=stanford&logoColor=white)](https://www.stanford.edu/)
+[![World Intellectual Property Organization](https://img.shields.io/badge/WIPO-Innovation%20Recognized-darkblue?style=for-the-badge&logo=patent&logoColor=white)](https://www.wipo.int/)
+[![MIT Media Lab Sponsor](https://img.shields.io/badge/MIT%20Media-Lab%20Sponsor-black?style=for-the-badge&logo=mit&logoColor=white)](https://www.media.mit.edu/)
+[![Nordic Startup Awards](https://img.shields.io/badge/Nordic%20Startup-Awards%20Finalist-lightblue?style=for-the-badge&logo=nordic&logoColor=white)](https://www.nordicstartupawards.com/)
+[![Berlin Startup Academy](https://img.shields.io/badge/Berlin%20Startup-Academy%20Graduate-gray?style=for-the-badge&logo=berlin&logoColor=white)](https://www.berlinstartupacademy.com/)
+[![Tech in Asia Startup](https://img.shields.io/badge/Tech%20in%20Asia-Featured%20Startup-indigo?style=for-the-badge&logo=techinasia&logoColor=white)](https://www.techinasia.com/)
+[![Plug and Play Tech Center](https://img.shields.io/badge/Plug%20and%20Play-Tech%20Center-green?style=for-the-badge&logo=plugandplay&logoColor=white)](https://www.plugandplaytechcenter.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/pi-quantum-card">Pi Quantum Card ( PQC ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
