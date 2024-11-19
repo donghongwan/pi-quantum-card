@@ -20,6 +20,11 @@ pi-quantum-card/
 │   │   │   ├── escrowContract.sol                # Smart contract for escrow services
 │   │   │   ├── stakingContract.sol               # Smart contract for staking and rewards
 │   │   │   └── governanceContract.sol            # Smart contract for decentralized governance
+│   │   ├── compliance/                           # Compliance-related modules
+│   │   │   ├── complianceMonitoring.js           # Automated compliance monitoring system
+│   │   │   ├── dynamicRegulatoryFramework.js     # Dynamic regulatory framework for compliance
+│   │   │   ├── kycIntegration.js                 # KYC and AML integration module
+│   │   │   └── smartContractCompliance.js        # Smart contract compliance enforcement
 │   │   ├── rewards/                              # Loyalty and rewards system
 │   │   │   ├── loyaltyProgram.js                 # Implementation of loyalty and rewards system
 │   │   │   └── rewardsUtils.js                   # Utility functions for rewards management
@@ -27,6 +32,15 @@ pi-quantum-card/
 │   │   │   ├── transactionPrediction.js          # Predictive analytics for transaction patterns
 │   │   │   ├── fraudDetection.js                 # AI-based fraud detection system
 │   │   │   └── personalizedOffers.js             # Machine learning for personalized offers
+│   │   ├── analytics/                            # Analytics and reporting modules
+│   │   │   ├── transactionAnalytics.js           # Analytics for transaction data
+│   │   │   └── userBehaviorAnalytics.js          # User behavior analysis for insights
+│   │   ├── security/                             # Security-related modules
+│   │   │   ├── quantumKeyDistribution.js         # Quantum Key Distribution implementation
+│   │   │   ├── multiFactorAuth.js                # Multi-Factor Authentication module
+│   │   │   ├── decentralizedIdentity.js          # Decentralized identity management
+│   │   │   ├── realTimeFraudDetection.js         # Real-time fraud detection system
+│   │   │   └── secureHardware.js                 # Secure hardware integration
 │   │   └── analytics/                            # Analytics and reporting modules
 │   │       ├── transactionAnalytics.js           # Analytics for transaction data
 │   │       └── userBehaviorAnalytics.js          # User behavior analysis for insights
@@ -39,6 +53,7 @@ pi-quantum-card/
 │   │   ├── components/                           # Reusable UI components
 │   │   │   ├── CardDisplay.js                    # UI component for displaying card information
 │   │   │   ├── TransactionHistory.js             # UI component for transaction history
+│   │   │   ├── RewardsDisplay ```plaintext
 │   │   │   ├── RewardsDisplay.js                 # UI component for displaying rewards
 │   │   │   ├── AIRecommendations.js              # UI component for displaying AI-generated recommendations
 │   │   │   └── SecuritySettings.js               # UI component for managing security settings
@@ -67,6 +82,7 @@ pi-quantum-card/
 │   │   ├── qr.test.js                            # Unit tests for QR code functionality
 │   │   ├── rewards.test.js                       # Unit tests for rewards system
 │   │   ├── ai.test.js                            # Unit tests for AI modules
+│   │   ├── compliance.test.js                    # Unit tests for compliance modules
 │   │   └── analytics.test.js                     # Unit tests for analytics modules
 │   │
 │   └── integration/                              # Integration tests
