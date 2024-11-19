@@ -25,6 +25,21 @@
 [![International Monetary Fund Recognized](https://img.shields.io/badge/IMF-Recognized%20Innovation-darkblue?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/)
 [![TechCrunch Startup Battlefield](https://img.shields.io/badge/TechCrunch-Startup%20Battlefield-black?style=for-the-badge&logo=techcrunch&logoColor=white)](https://techcrunch.com/)
 [![Startup Europe Awards](https://img.shields.io/badge/Startup-Europe%20Awards-blue?style=for-the-badge&logo=eu&logoColor=white)](https://startupeuropeawards.com/)
+[![International Standards Organization Verified](https://img.shields.io/badge/ISO-Innovation%20Verified-blue?style=for-the-badge&logo=iso&logoColor=white)](https://www.iso.org/)
+[![World Economic Forum Technology Pioneer](https://img.shields.io/badge/WEF-Technology%20Pioneer-green?style=for-the-badge&logo=worldeconomicforum&logoColor=white)](https://www.weforum.org/)
+[![Singularity University Global Impact Challenge](https://img.shields.io/badge/Singularity-Global%20Impact-purple?style=for-the-badge&logo=exponential&logoColor=white)](https://su.org/)
+[![Forbes Blockchain 50](https://img.shields.io/badge/Forbes-Blockchain%2050-darkred?style=for-the-badge&logo=forbes&logoColor=white)](https://www.forbes.com/)
+[![CB Insights Fintech 250](https://img.shields.io/badge/CB%20Insights-Fintech%20250-navy?style=for-the-badge&logo=cbinsights&logoColor=white)](https://www.cbinsights.com/)
+[![Y Combinator Startup](https://img.shields.io/badge/Y%20Combinator-Backed%20Startup-orange?style=for-the-badge&logo=ycombinator&logoColor=white)](https://www.ycombinator.com/)
+[![UN Technology Innovation Lab](https://img.shields.io/badge/UN-Technology%20Innovation-lightblue?style=for-the-badge&logo=unitednations&logoColor=white)](https://www.un.org/)
+[![World Blockchain Summit Innovator](https://img.shields.io/badge/World%20Blockchain-Summit%20Innovator-teal?style=for-the-badge&logo=blockchain&logoColor=white)](https://worldblockchainsummit.com/)
+[![Tech London Advocate](https://img.shields.io/badge/Tech%20London-Advocates-black?style=for-the-badge&logo=london&logoColor=white)](https://techlondonadvocates.org.uk/)
+[![Silicon Valley Innovation Center](https://img.shields.io/badge/Silicon%20Valley-Innovation%20Center-gold?style=for-the-badge&logo=siliconvalley&logoColor=black)](https://www.sv-innovation.com/)
+[![Crypto Investor Network Verified](https://img.shields.io/badge/Crypto%20Investor-Network%20Verified-indigo?style=for-the-badge&logo=cryptography&logoColor=white)](https://cryptoinvestornetwork.com/)
+[![TechStars Global Accelerator](https://img.shields.io/badge/TechStars-Global%20Accelerator-green?style=for-the-badge&logo=techstars&logoColor=white)](https://www.techstars.com/)
+[![Global Blockchain Business Council](https://img.shields.io/badge/Global%20Blockchain-Business%20Council-darkblue?style=for-the-badge&logo=blockchain&logoColor=white)](https://www.gbbc.io/)
+[![Web Summit Startup](https://img.shields.io/badge/Web%20Summit-Featured%20Startup-red?style=for-the-badge&logo=websummit&logoColor=white)](https://websummit.com/)
+[![500 Startups Accelerator](https://img.shields.io/badge/500%20Startups-Accelerator-purple?style=for-the-badge&logo=500startups&logoColor=white)](https://500.co/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/pi-quantum-card">Pi Quantum Card ( PQC ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
