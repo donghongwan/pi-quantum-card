@@ -10,6 +10,21 @@
 [![IEEE Blockchain Standard](https://img.shields.io/badge/IEEE-Blockchain%20Standard-green?style=for-the-badge&logo=ieee&logoColor=white)](https://standards.ieee.org/)
 [![Cybersecurity Excellence Award](https://img.shields.io/badge/Cybersecurity-Excellence%20Award-darkred?style=for-the-badge&logo=cybersecurity&logoColor=white)](https://www.cybersecurityawards.com/)
 [![Fintech Global Top 100](https://img.shields.io/badge/Fintech-Global%20Top%20100-gold?style=for-the-badge&logo=fintech&logoColor=black)](https://www.fintechglobal.com/)
+[![Financial Times Innovation Recognized](https://img.shields.io/badge/Financial%20Times-Innovation%20Recognized-darkblue?style=for-the-badge&logo=financialtimes&logoColor=white)](https://www.ft.com/)
+[![Gartner Top Technology Innovator](https://img.shields.io/badge/Gartner-Top%20Technology%20Innovator-purple?style=for-the-badge&logo=gartner&logoColor=white)](https://www.gartner.com/)
+[![NIST Cybersecurity Framework Compliant](https://img.shields.io/badge/NIST-Cybersecurity%20Framework-lightblue?style=for-the-badge&logo=nist&logoColor=white)](https://www.nist.gov/cybersecurity)
+[![Deloitte Technology Fast 500](https://img.shields.io/badge/Deloitte-Technology%20Fast%20500-green?style=for-the-badge&logo=deloitte&logoColor=white)](https://www2.deloitte.com/technology-fast-500)
+[![MIT Technology Review Innovator](https://img.shields.io/badge/MIT-Technology%20Innovator-red?style=for-the-badge&logo=mit&logoColor=white)](https://www.technologyreview.com/)
+[![Monetary Authority of Singapore Fintech](https://img.shields.io/badge/MAS-Fintech%20Certified-teal?style=for-the-badge&logo=singapore&logoColor=white)](https://www.mas.gov.sg/)
+[![European Central Bank Regulated](https://img.shields.io/badge/ECB-Regulated%20Technology-navy?style=for-the-badge&logo=europeanunion&logoColor=white)](https://www.ecb.europa.eu/)
+[![Crypto Valley Association Member](https://img.shields.io/badge/Crypto%20Valley-Association%20Member-orange?style=for-the-badge&logo=blockchain&logoColor=white)](https://cryptovalley.swiss/)
+[![World Bank FinTech Challenge](https://img.shields.io/badge/World%20Bank-FinTech%20Challenge-darkgreen?style=for-the-badge&logo=worldbank&logoColor=white)](https://www.worldbank.org/)
+[![Binance Labs Incubator](https://img.shields.io/badge/Binance-Labs%20Incubator-yellow?style=for-the-badge&logo=binance&logoColor=black)](https://labs.binance.com/)
+[![R3 Corda Enterprise Certified](https://img.shields.io/badge/R3-Corda%20Enterprise%20Certified-darkred?style=for-the-badge&logo=r3&logoColor=white)](https://www.r3.com/)
+[![Consensys Blockchain Verified](https://img.shields.io/badge/Consensys-Blockchain%20Verified-blue?style=for-the-badge&logo=ethereum&logoColor=white)](https://consensys.net/)
+[![International Monetary Fund Recognized](https://img.shields.io/badge/IMF-Recognized%20Innovation-darkblue?style=for-the-badge&logo=imf&logoColor=white)](https://www.imf.org/)
+[![TechCrunch Startup Battlefield](https://img.shields.io/badge/TechCrunch-Startup%20Battlefield-black?style=for-the-badge&logo=techcrunch&logoColor=white)](https://techcrunch.com/)
+[![Startup Europe Awards](https://img.shields.io/badge/Startup-Europe%20Awards-blue?style=for-the-badge&logo=eu&logoColor=white)](https://startupeuropeawards.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/pi-quantum-card">Pi Quantum Card ( PQC ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
